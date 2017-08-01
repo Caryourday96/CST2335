@@ -3,4 +3,7 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">Mo ki o,  Ile Aiye!</string>
     <string name="ButtonText">Emi ni botini</string>
+    <string name="ButtonText1">Botini ni emi na</string>
+    <string name="ButtonText2">Odawipe Kagebunshin ni mi</string>
+    <string name="ButtonText3">Rara, Abi ?</string>
 </resources>

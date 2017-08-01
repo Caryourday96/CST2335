@@ -2,4 +2,7 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="ButtonText1">I am also a button</string>
+    <string name="ButtonText2">I think I am a Shadow Clone</string>
+    <string name="ButtonText3">Nah, Maybe ?</string>
 </resources>
