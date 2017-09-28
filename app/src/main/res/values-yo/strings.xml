@@ -2,5 +2,6 @@
 <resources>
     <string name="app_name">Lab1</string>
     <string name="hello_message">Mo ki o,  Ile Aiye!</string>
-    <string name="ButtonText">Emi ni botini</string>
+    <string name="login"> Logiiini </string>
+
 </resources>
